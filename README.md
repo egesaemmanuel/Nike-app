@@ -8,3 +8,7 @@ Key Features:
 6.	Notifications: Stay updated with real-time alerts on promotions, new arrivals, and order status. Customize your notification preferences to suit your needs.
 7.	Order History: Access your complete order history, including tracking information and invoices. Easily reorder your favorite products or track the delivery of your recent purchases.
 Contributing: We welcome contributions from the open-source community. If you'd like to improve the Nike App or report issues, please feel free to create pull requests or open issues in this repository.
+
+This is the figma link
+
+https://www.figma.com/file/j80pPMH8T00oNr17Sg3Bun/NIKE-APP?type=design&node-id=0%3A1&mode=design&t=3seoRSgOdB4pSxeb-1
